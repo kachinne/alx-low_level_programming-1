@@ -4,6 +4,7 @@
  * fibonacci numbers.
  * Return: Always 0.
  */
+ 
 int main(void)
 {
 long int n1, n2, fn, afn;
@@ -22,5 +23,4 @@ afn += n1;
 }
 printf("%ld\n", afn);
 return (0);
-
 }
