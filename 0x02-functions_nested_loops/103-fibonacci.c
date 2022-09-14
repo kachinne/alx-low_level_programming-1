@@ -22,4 +22,5 @@ afn += n1;
 }
 printf("%ld\n", afn);
 return (0);
+
 }
