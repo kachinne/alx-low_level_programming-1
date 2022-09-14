@@ -1,4 +1,4 @@
-##INTRODUCTION TO THE REPO##
+#INTRODUCTION TO THE REPO
 This Directory contains the scripts and files that has been written according to the order of projects
 
 -> All files were uploaded from the terminal.
@@ -43,6 +43,6 @@ This Directory contains the scripts and files that has been written according to
 #
 16. Program prints and finds the first 98 Fibonacci numbers starting with 1 and 2 then a new line is followed.
 #
-#CONCLUSION#
+*_CONCLUSION_*
 #
-    -> **All files were uploaded from terminal and are available for use.**
+    -> All files were uploaded from terminal and are available for use.
