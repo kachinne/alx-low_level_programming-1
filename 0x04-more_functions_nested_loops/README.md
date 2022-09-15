@@ -8,7 +8,8 @@
     
     ->It also focuses on the loops and nested loops also.
 
-##LISTED HERE ARE IN SEQUENCE HOW THE SCRIPTS ARE COMPILED##
+**LISTED HERE ARE IN SEQUENCE HOW THE SCRIPTS ARE COMPILED**
+
 **The main.h**
 **The _putchar script was not uploaded as instructed**
 
