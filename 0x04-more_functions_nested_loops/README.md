@@ -1,42 +1,39 @@
--->INTRODUCTION TO THE PROJECT-->
-------
---> This is a readme file that explains each directory and its contents.
+#INTRODUCTION TO THE PROJECT#
 
---> This directory contains all projects as assigned on the fourth task.
+    ->This is a readme file that explains each directory and its contents.
+    
+    ->This directory contains all projects as assigned on the fourth task.
+    
+    ->It is focused on extra functions used in the C programming enviroment.
+    
+    ->It also focuses on the loops and nested loops also.
 
---> It is focused on extra functions used in the C programming enviroment.
+##LISTED HERE ARE IN SEQUENCE HOW THE SCRIPTS ARE COMPILED##
+**The main.h**
+**The _putchar script was not uploaded as instructed**
 
---> It also focuses on the loops and nested loops also.
+0. Functions checks for uppercase character.
 
--->LISTED HERE ARE IN SEQUENCE HOW THE SCRIPTS ARE COMPILED<--
-------
+1. Function checks for a digit 0 through 9
 
-//A.  The main.h
+2. Function multiplies two integers.
 
-//B The _putchar script was not  uploaded as instructed
+3. Function prints numbers from 0 to 9 followed by a new line.
 
-//0. Functions checks for uppercase character.
+4. Function prints numbers from 0 to 9 -> 2 and 4 is not printed.
 
-//1. Function checks for a digit 0 through 9
+5. Function prints numbers from 0 to 14 => 10 times and followed by a new line.
 
-//2. Function multiplies two integers.
+6. Function draws a straight line in the terminal.
 
-//3. Function prints numbers from 0 to 9 followed by a new line.
+7. Function draws a diagonal line on the terminal.
 
-//4. Function prints numbers from 0 to 9 -> 2 and 4 is not printed.
+8. Functions prints a square and follows with a new line.
 
-//5. Function prints numbers from 0 to 14 => 10 times and followed by a new line.
+9. Fizz Buzz
 
-//6. Function draws a straight line in the terminal.
+10. Function prints a triangle followed by a new line.
 
-//7. Function draws a diagonal line on the terminal.
+100. Program finds and prints the largest prime factor of the number, followed by a new line.
 
-//8. Functions prints a square and follows with a new line.
-
-//9. Fizz Buzz
-
-//10. Function prints a triangle followed by a new line.
-
-//100. Program finds and prints the largest prime factor of the number, followed by a new line.
-
-//101. Function prints an integer.
+101. Function prints an integer.
