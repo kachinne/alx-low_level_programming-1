@@ -1,4 +1,4 @@
-#INTRODUCTION TO THE PROJECT#
+#INTRODUCTION TO THE PROJECT
 
     ->This is a readme file that explains each directory and its contents.
     
