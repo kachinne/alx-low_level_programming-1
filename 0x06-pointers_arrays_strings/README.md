@@ -1,10 +1,10 @@
-# INTRODUCTORY README FILE
+#INTRODUCTORY README FILE
 #
 -> This is the readme file for Task 6.
 
 -> Contained in this task are the files and programs written with the C language
 
--> _Putcahar.c_ was not pushed because it is needed in the task
+-> _Putchar.c_ was not pushed because it is needed in the task
 
 -> Program is Betty compliant.
 
@@ -12,7 +12,7 @@
 
 -> All Files were pushed from the terminal.
 
-# FIND BELOW FILES INCLUDED IN THIS TASK
+#FIND BELOW FILES INCLUDED IN THIS TASK
 #
 -> 0-strcat.c: Function concatenates two strings.
 
@@ -40,6 +40,7 @@
 
 -> 104-print_buffer.c: Function prints a buffer.
 #
-# FOR YOUR INFORMATION
-	--> All Creation here re original from the owner of this git account.
-	--> Please Dont hurt the files.
+#FOR YOUR INFORMATION
+	--> All file creation in this directory are original from the owner of this git account.
+	--> Dont hurt the files.
+	--> Don't hate the hacker hate the code.
