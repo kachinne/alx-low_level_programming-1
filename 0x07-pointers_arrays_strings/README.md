@@ -1,18 +1,18 @@
-# README TO PROJECT 7
+#README FILE FOR TASK 7
 # 
--> This project is the 7th project of ALX class
+	-> This project is the 7th project of ALX class
 
--> It contains all the files of the project in order
+	-> It contains all the files of the project in order
 
--> The main.h was uploaded
+	-> The main.h was uploaded
 
--> The Putchar was also uploaded
+	-> The Putchar was also uploaded
 
--> All files were created from the Terminal and uploaded from the terminal.
+	-> All files were created from the Terminal and uploaded from the terminal.
 
--> All task we solved from research.
+	-> All task we solved from research.
 
-# HERE ARE THE FILES CREATED WITHINT THIS PROJECT
+#HERE ARE THE FILES CREATED WITHINT THIS PROJECT
 # 
 	-> 0-memset.c: function fills memory with a constant byte.
 
@@ -34,8 +34,9 @@
 
 	-> 101-crackme_password: file contains the password for the crackme2 executable.
 
-Here are all the files created in this task and are uploaded through the terminal.
-# CONCLUSION
+**Here are all the files created in this task and are uploaded through the terminal.**
+
+#CONCLUSION
 # 
 	-> Files here are not to be edited as they are used for scoring
 

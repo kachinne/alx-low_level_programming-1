@@ -1,4 +1,4 @@
-#INTRODUCTION TO THE PROJECT#
+#INTRODUCTION TO THE PROJECT
 
     ->This is a readme file that explains each directory and its contents.
     
@@ -8,11 +8,11 @@
     
     ->It also focuses on the loops and nested loops also.
 
-**LISTED HERE ARE IN SEQUENCE HOW THE SCRIPTS ARE COMPILED**
-
-**The main.h**
-**The _putchar script was not uploaded as instructed**
-
+*LISTED HERE ARE IN SEQUENCE HOW THE SCRIPTS ARE COMPILED*
+#
+_The main.h_
+*The _putchar script was not uploaded as instructed*
+#
 0. Functions checks for uppercase character.
 
 1. Function checks for a digit 0 through 9
