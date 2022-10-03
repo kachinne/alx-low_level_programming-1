@@ -26,3 +26,18 @@ _There are other Repo's created for different levels of programming._
 #
 *Project 5: 0x05-pointers_arrays_strings*
 #
+*Project 6: 0x06-More_Pointers_arrays_strings*
+#
+*Project 7: 0x07-Even-More_Pointers_arrays_strings*
+#
+*Project 8: 0x08-Recursion*
+#
+*Project 9: 0x09-Static_libraries*
+#
+*Project A: 0x0A-Argc_Argv*
+#
+*Project B: 0x0B-Malloc_free*
+#
+*Project C: 0x0C-More_Malloc_free*
+#
+
